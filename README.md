@@ -43,12 +43,3 @@ npm run vote_simplest -- 2
 
 You just voted via a smart contract on Solana (devnet).
 
-## About Solana
-
-More information about how Solana works is available in the [Solana documentation](https://docs.solana.com/) and all the source code is available on [github](https://github.com/solana-labs/solana)
-
-Further questions?  Visit the [Discord](https://discordapp.com/invite/pquxPsq)
-
-- [Solana Rust SDK](https://docs.rs/solana-sdk/1.3.4/solana_sdk/)
-- [Solana web3 SDK](https://solana-labs.github.io/solana-web3.js)
-
