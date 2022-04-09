@@ -90,7 +90,7 @@
     "jayson": "^3.3.4",
     "json-to-pretty-yaml": "^1.2.2",
     "mkdirp-promise": "^5.0.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "mz": "^2.7.0",
     "node-fetch": "^2.6.1",
     "react": "^16.5.2",
